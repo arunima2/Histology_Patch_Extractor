@@ -2,7 +2,7 @@
 Helps extract relevant patches from bigger images for model building
 
 ## Usage
-python execute_patch_extractor.py <Name of bigger Image> <Full path of desired output folder> <Patch Size in pixels>
+python execute_patch_extractor.py -Name of bigger Image- -Full path of desired output folder- -Patch Size in pixels-
 ### Example
 python execute_patch_extractor.py test.png /home/users/arunima2/images/output 75
 
