@@ -9,7 +9,7 @@ python execute_patch_extractor.py test.png /home/users/arunima2/images/output 75
 ### NOTE!
 (1) The location file needs to be of JSON format, named the same as the image file and should be located in the same directory
 
-Input bigger images = Case_1.png
+Input bigger source image = test.png
 
 Json file that is in the same directory as test.png = test.json
 
