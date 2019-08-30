@@ -8,7 +8,9 @@ python execute_patch_extractor.py test.png /home/users/arunima2/images/output 75
 
 ### NOTE!
 (1) The location file needs to be of JSON format, named the same as the image file and should be located in the same directory
+
 Input bigger images = Case_1.png
+
 Json file that is in the same directory as test.png = test.json
 
 (2) The Json format needs to be similar to the test.json uploaded. Labels can be changed as appropriate. The x and y are centroid of locations that need to be extracted in the patches. They are depicted as ratios of width and height respectively.
